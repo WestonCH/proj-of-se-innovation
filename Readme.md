@@ -2,6 +2,8 @@
 
 Build a project and include all four files in the project.
 
+Then you can run this project on the chrome.
+
 just like this.![](picture.png)
 
 ## Some information
